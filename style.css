@@ -1,0 +1,20 @@
+.divPrincipal {
+    text-align: center;
+}
+
+.divFoto {
+   
+    height: 20px;
+    width: 20px;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
